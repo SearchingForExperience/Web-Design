@@ -1,2 +1,2 @@
 # Web-Design
-The repository for learing fullstack web design from udemy and school, along with my personal projects or insights.
+The repository for learning fullstack web design from school and udemy, along with my personal projects or insights.
